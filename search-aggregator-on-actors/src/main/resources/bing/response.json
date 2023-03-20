@@ -1,0 +1,20 @@
+{
+  "engine": "bing",
+  "items": [
+    {
+      "text": "some text from bing 1"
+    },
+    {
+      "text": "some text from bing 2"
+    },
+    {
+      "text": "some text from bing 3"
+    },
+    {
+      "text": "some text from bing 4"
+    },
+    {
+      "text": "some text from bing 5"
+    }
+  ]
+}

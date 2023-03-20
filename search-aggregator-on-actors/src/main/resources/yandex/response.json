@@ -1,0 +1,20 @@
+{
+  "engine": "yandex",
+  "items": [
+    {
+      "text": "some text from yandex 1"
+    },
+    {
+      "text": "some text from yandex 2"
+    },
+    {
+      "text": "some text from yandex 3"
+    },
+    {
+      "text": "some text from yandex 4"
+    },
+    {
+      "text": "some text from yandex 5"
+    }
+  ]
+}
